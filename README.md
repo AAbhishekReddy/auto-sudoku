@@ -13,4 +13,11 @@ pytesseract
 opencv
 ```
 
-![GitHub Logo](test.png)
+## Image
+
+The following is the original image of the suduko that has been taken to test upon.
+![Original Pic](new.jpeg)
+
+The following is the wrapped pic that has been croped based on the Area of Intrest.
+![Original Pic](cropped.jpeg)
+
