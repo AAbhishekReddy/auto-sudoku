@@ -12,3 +12,5 @@ This project is in a development phase and hang on for the completion.
 pytesseract
 opencv
 ```
+
+![GitHub Logo](test.png)
